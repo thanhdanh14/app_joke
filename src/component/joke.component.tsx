@@ -50,7 +50,7 @@ export default function JokeApp() {
           <h1 className=' pt-20 text-2xl text-gray-600 w-[1168px] text-left font-sans'>{contents[contentIndex]}</h1>
         ) : (
           <h1 className='text-center pt-20 font-normal text-3xl font-sans text-green-400'>
-            That's all the jokes for today! Come back another day!
+            That's all the jokes for today! Come back another day
           </h1>
         )}
       <div className=' mx-[100px] border-t-2 border-gray mt-[40px]'> </div>
