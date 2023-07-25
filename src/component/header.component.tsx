@@ -1,11 +1,11 @@
-import logo  from '../assets/logo1.png'
+import logo1  from '../assets/logo1.png'
 import avatar from '../assets/avatar.png'
 export default function Header() {
   return (
     <>
       <div className='flex justify-around my-2  '>
         <h1 className=' py-1'>
-          <img src={logo} alt='logo'/>
+          <img src={logo1} alt='logo'/>
         </h1>
         <div className='flex'>
           <div className='flex-col pt-[15px]'>
