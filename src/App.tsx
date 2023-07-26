@@ -1,9 +1,9 @@
-import JokeApp from "./component/joke.component";
+import App_Web from "./component/main.component";
 
 export default function App() {
   return (
     <>
-     <JokeApp />
+     <App_Web />
     </>
   )
 }
